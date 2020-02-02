@@ -29,6 +29,8 @@ Catholic Holy Bible is Catholic Bible with Vatican style. Catholic Holy Bible is
 
 
 <h3>Next Features:</h3>
+- Share to your social media network<br>
+- Send to a person's email address <br>
 - Chat and Forum system<br>
 - Video Cam chat support in Private Chat<br>
 - No chat logs stored in server and Strict Encryption of Private Chat betwen user and another user<br>

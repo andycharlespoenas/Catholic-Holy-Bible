@@ -9,7 +9,7 @@ Date: Feb, 2020</b>
 Catholic Holy Bible is Catholic Bible with Vatican style. Catholic Holy Bible is free and open source, you can develop nor rewrite it into another programming languages also with your own logic thinking method. 
 
 <h3>Purposes:</h3>
-- Catholic religion <br>
+- Rome Catholic religion <br>
 - For anyone <br>
 
 <br><br><br>

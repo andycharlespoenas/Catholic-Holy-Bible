@@ -14,6 +14,7 @@ Catholic Holy Bible is Catholic Bible with Vatican style. Catholic Holy Bible is
 
 <br><br><br>
 <h3>Features:</h3>
+- Free, no advertising <br>
 - Many user interface languages<br>
 - Many bible translations <br>
 - Bible's saving for private reading <br>

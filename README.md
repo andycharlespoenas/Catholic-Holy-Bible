@@ -18,8 +18,8 @@ Catholic Holy Bible is Catholic Bible with Vatican style. Catholic Holy Bible is
 - Many bible translations <br>
 - Bible's saving for private reading <br>
 - Many pray and praise songs, ie: adoro te devote, kyrie eleison, o salutaris hostia, etc <br>
-- Vatican pictures gallery ( watermarked by 'theromecatholic.org' )
-- Vatican Videos  ( watermarked by 'theromecatholic.org' )
+- Vatican pictures gallery ( watermarked by 'theromecatholic.org' ) <br>
+- Vatican Videos  ( watermarked by 'theromecatholic.org' ) <br> <br> <br> <br>
 
 <h3>Languages:</h3>
 - C#<br>

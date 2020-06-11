@@ -15,6 +15,7 @@ Catholic Holy Bible is Catholic Bible with Vatican style. Catholic Holy Bible is
 <h3>Latin guides:</h3>
 - ad maiorem Dei gloriam <br>
 - Ave Maria<br>
+- ora et labora	<br>
 
 <br><br><br>
 <h3>Features:</h3>

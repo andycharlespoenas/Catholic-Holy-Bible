@@ -45,3 +45,16 @@ Catholic Holy Bible is Catholic Bible with Vatican style. Catholic Holy Bible is
 - No chat logs stored in server and Strict Encryption of Private Chat betwen user and another user<br>
 - Vatican Mass Live ( Community support. If anyone be there, can get video and connect to the www.theromecatholic.org server so the other users can stream it)<br>
 - Will be listed on  www.theromecatholic.org <br>
+
+
+
+<br><br>
+
+
+<h3>Coder profiles:</h3> <br>
+Twitter: https://twitter.com/andikasagala3 <br>
+Facebook: https://www.facebook.com/andikaugandacharles.sagala <br>
+LinkedIn: https://linkedin.com/in/andika-sagala <br>
+Youtube: https://www.youtube.com/channel/UCByuR9KOrn1jvjqOkkQnHkg <br>
+
+

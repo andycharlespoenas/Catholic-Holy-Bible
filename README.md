@@ -46,14 +46,6 @@ Catholic Holy Bible is Catholic Bible with Vatican style. Catholic Holy Bible is
 - Vatican Mass Live ( Community support. If anyone be there, can get video and connect to the www.theromecatholic.org server so the other users can stream it)<br>
 - Will be listed on  www.theromecatholic.org <br>
 
-
-<br><br>
-<h3>Warning !!!</h3>
-
-This source code is not available for the terrorist countries below:
-- Africa Continent
-- Afghanistan, Sahrawi Arab Democratic Republic, Palestine, Armenia, Azerbaijan, Bahrain, Bangladesh, Brunei, Indonesia, Iran, Iraq, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Malaysia, Lebanon, Maldives, Oman, Pakistan, Qatar, Saudi Arabia, Syria, Tajikistan, Turkey, Turkmenistan, United Arab Emirates, Uzbekistan, Yemen, Kazakhstan, Papua New Guinea, Federated States of Micronesia, Vanuatu, Tuvalu, Solomon Islands
-, Samoa, Nauru 	
 <br><br>
 
 

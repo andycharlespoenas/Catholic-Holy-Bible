@@ -1,6 +1,6 @@
 
 <h1> in progress... coming soon..</h1>
-<b>Coder: Andika Sagala ( Andy Charles Poenas ) <br>
+<b>Coder: Andi Sagala ( Andy Charles Poenas ) <br>
 Date: Feb, 2020</b>
 <br><br><br><br>
 <center> <h2>-----== Catholic Holy Bible ==----- <h2> </center>
